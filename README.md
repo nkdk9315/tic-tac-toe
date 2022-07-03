@@ -1,2 +1,2 @@
 # tic-tac-toe
-Made commndline tic-tac-toe
+Made commandline varsion tic-tac-toe
